@@ -1,6 +1,6 @@
 Devourer Demon Hunter, Midnight 12.1.5 PTR.
 
-`devourer.simc` holds both hero trees as two actors, Void-Scarred and Annihilator, each with its own gear and single-target talents.
+`devourer.simc` carries Void-Scarred and Annihilator gear and single-target talents; Void-Scarred is live and the rest is commented out below it.
 Simmed at target_error 0.05.
 
 ![Every build's single-target damage against its damage in the +20 dungeon](build-comparison.svg)

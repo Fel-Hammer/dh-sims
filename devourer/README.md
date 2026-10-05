@@ -3,7 +3,7 @@ Devourer Demon Hunter, Midnight 12.1.5 PTR.
 `devourer.simc` carries Void-Scarred and Annihilator gear and single-target talents; Void-Scarred is live and the rest is commented out below it.
 Simmed at target_error 0.05.
 
-![Every build's single-target damage against its damage in the +20 dungeon](build-comparison.svg)
+![Every build's single-target damage against its damage on five targets](build-comparison.svg)
 
 ## ST: 1 target, 300s, lust ([report](https://mimiron.raidbots.com/simbot/report/taZC6gL471MebLUTWWWchY))
 

@@ -13,6 +13,7 @@ role=spell
 position=back
 omnium_talents=136822:1/136819:1/136817:1/136818:1/136814:1
 
+# Void-Scarred
 potion=potion_of_recklessness_2
 flask=flask_of_the_magisters_2
 food=amani_cornucopia
@@ -38,6 +39,7 @@ trinket2=gebbos_bottomless_bag,id=270164,ilevel=340
 main_hand=janthrazet_the_soul_fang,id=271092,ilevel=344,enchant_id=8689
 off_hand=baleful_hexblade,id=268211,ilevel=344,enchant_id=8689
 
+# Annihilator
 #potion=potion_of_recklessness_2
 #flask=flask_of_the_magisters_2
 #food=amani_cornucopia

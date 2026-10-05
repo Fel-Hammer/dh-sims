@@ -1,6 +1,6 @@
 Vengeance Demon Hunter, Midnight 12.1.5 PTR.
 
-One profile per hero tree, each with that tree's gear and its single-target talents: `aldrachi-reaver.simc` (Aldrachi Reaver), `annihilator.simc` (Annihilator).
+`vengeance.simc` holds both hero trees as two actors, Aldrachi Reaver and Annihilator, each with its own gear and single-target talents.
 Simmed at target_error 0.05.
 
 ![Every build's single-target damage against its damage in the +20 dungeon](build-comparison.svg)
@@ -38,7 +38,7 @@ Simmed at target_error 0.05.
 the chaining and the mob health all come off 12.1 PTR logs, scaled down to one actor, with health
 at a +20 keystone. Run it with:
 
-    simc aldrachi-reaver.simc temple-of-sethraliss-route.simc
+    simc vengeance.simc temple-of-sethraliss-route.simc
 
 | Build | DPS | Build report |
 |---|---|---|

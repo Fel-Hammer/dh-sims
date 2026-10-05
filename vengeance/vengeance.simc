@@ -12,6 +12,7 @@ timeofday=night
 role=tank
 position=front
 
+# Aldrachi Reaver
 potion=lights_potential_2
 flask=flask_of_the_magisters_2
 food=silvermoon_parade
@@ -35,6 +36,7 @@ trinket2=zuljins_guillotine_technique,id=270173,ilevel=334
 main_hand=amanmuso_warlords_vengeance,id=268209,ilevel=344,enchant_id=8039
 off_hand=spellbreakers_warglaive,id=237840,ilevel=331,embellishment=darkmoon_sigil_hunt,enchant_id=8039,crafted_stats=32/40
 
+# Annihilator
 #potion=lights_potential_2
 #flask=flask_of_the_magisters_2
 #food=silvermoon_parade

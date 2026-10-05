@@ -3,36 +3,36 @@ Vengeance Demon Hunter, Midnight 12.1.5 PTR.
 `vengeance.simc` carries Aldrachi Reaver and Annihilator gear and single-target talents; Aldrachi Reaver is live and the rest is commented out below it.
 Simmed at target_error 0.05.
 
-![Every build's single-target damage against its damage in the +20 dungeon](build-comparison.svg)
+![Every build's single-target damage against its damage on five targets](build-comparison.svg)
 
-## ST: 1 target, 300s, lust ([report](https://mimiron.raidbots.com/simbot/report/1j9FiHuGfo8wXRQksyJhgm))
-
-| Build | DPS | Build report |
-|---|---|---|
-| aldrachi-st | 154,316 | [report](https://mimiron.raidbots.com/simbot/report/qzGgoJxLABBtEaXsoGy1r2) |
-| aldrachi-aoe | 149,957 | [report](https://mimiron.raidbots.com/simbot/report/9JgTSznBtD1oM5vygD2fEx) |
-| annihilator-st | 143,887 | [report](https://mimiron.raidbots.com/simbot/report/mL8nsw2ur6m8tjEb6rn6Cp) |
-| annihilator-aoe | 142,039 | [report](https://mimiron.raidbots.com/simbot/report/4VghkhnQtEWvEEF6oiLGrM) |
-
-## Cleave: 3 targets, 300s, lust ([report](https://mimiron.raidbots.com/simbot/report/w89xs8tppGFrkzMscUYafF))
+## ST: 1 target, 300s, lust ([report](https://mimiron.raidbots.com/simbot/report/rGjmqtEW45HSEoLbzqzFwH))
 
 | Build | DPS | Build report |
 |---|---|---|
-| annihilator-aoe | 314,751 | [report](https://mimiron.raidbots.com/simbot/report/4VghkhnQtEWvEEF6oiLGrM) |
-| annihilator-st | 311,590 | [report](https://mimiron.raidbots.com/simbot/report/mL8nsw2ur6m8tjEb6rn6Cp) |
-| aldrachi-aoe | 250,377 | [report](https://mimiron.raidbots.com/simbot/report/9JgTSznBtD1oM5vygD2fEx) |
-| aldrachi-st | 245,088 | [report](https://mimiron.raidbots.com/simbot/report/qzGgoJxLABBtEaXsoGy1r2) |
+| aldrachi-st | 156,071 | [report](https://mimiron.raidbots.com/simbot/report/xoNbm1QfohDGXoTcYv2Z8L) |
+| aldrachi-aoe | 153,652 | [report](https://mimiron.raidbots.com/simbot/report/7rao4fzWGgfCN7uERBPuuk) |
+| annihilator-st | 147,252 | [report](https://mimiron.raidbots.com/simbot/report/1x4mX93SJiTGQVqfifFFb6) |
+| annihilator-aoe | 144,497 | [report](https://mimiron.raidbots.com/simbot/report/sqLGgoAnTk1geX54H2ADgV) |
 
-## AoE: 5 targets, 300s, lust ([report](https://mimiron.raidbots.com/simbot/report/9Kbk6nrtnpkzWvmNXjhdSB))
+## Cleave: 3 targets, 300s, lust ([report](https://mimiron.raidbots.com/simbot/report/e4nieUCENK6mmLcrnMAzUP))
 
 | Build | DPS | Build report |
 |---|---|---|
-| annihilator-aoe | 460,663 | [report](https://mimiron.raidbots.com/simbot/report/4VghkhnQtEWvEEF6oiLGrM) |
-| annihilator-st | 452,069 | [report](https://mimiron.raidbots.com/simbot/report/mL8nsw2ur6m8tjEb6rn6Cp) |
-| aldrachi-aoe | 345,651 | [report](https://mimiron.raidbots.com/simbot/report/9JgTSznBtD1oM5vygD2fEx) |
-| aldrachi-st | 332,916 | [report](https://mimiron.raidbots.com/simbot/report/qzGgoJxLABBtEaXsoGy1r2) |
+| annihilator-aoe | 317,503 | [report](https://mimiron.raidbots.com/simbot/report/sqLGgoAnTk1geX54H2ADgV) |
+| annihilator-st | 316,098 | [report](https://mimiron.raidbots.com/simbot/report/1x4mX93SJiTGQVqfifFFb6) |
+| aldrachi-aoe | 250,803 | [report](https://mimiron.raidbots.com/simbot/report/7rao4fzWGgfCN7uERBPuuk) |
+| aldrachi-st | 244,913 | [report](https://mimiron.raidbots.com/simbot/report/xoNbm1QfohDGXoTcYv2Z8L) |
 
-## Dungeon: Temple of Sethraliss route, +20 keystone ([report](https://mimiron.raidbots.com/simbot/report/dGEgtLRy4yw7me95fr2xSF))
+## AoE: 5 targets, 300s, lust ([report](https://mimiron.raidbots.com/simbot/report/1x2qF83KHoXEw7cb5bm4z7))
+
+| Build | DPS | Build report |
+|---|---|---|
+| annihilator-aoe | 464,041 | [report](https://mimiron.raidbots.com/simbot/report/sqLGgoAnTk1geX54H2ADgV) |
+| annihilator-st | 457,767 | [report](https://mimiron.raidbots.com/simbot/report/1x4mX93SJiTGQVqfifFFb6) |
+| aldrachi-aoe | 345,818 | [report](https://mimiron.raidbots.com/simbot/report/7rao4fzWGgfCN7uERBPuuk) |
+| aldrachi-st | 332,590 | [report](https://mimiron.raidbots.com/simbot/report/xoNbm1QfohDGXoTcYv2Z8L) |
+
+## Dungeon: Temple of Sethraliss route, +20 keystone ([report](https://mimiron.raidbots.com/simbot/report/oBsJbagPC12RVit173J5HN))
 
 `temple-of-sethraliss-route.simc` walks a Temple of Sethraliss M+ route end to end. The pulls,
 the chaining and the mob health all come off 12.1 PTR logs, scaled down to one actor, with health
@@ -42,19 +42,19 @@ at a +20 keystone. Run it with:
 
 | Build | DPS | Build report |
 |---|---|---|
-| annihilator-st | 324,316 | [report](https://mimiron.raidbots.com/simbot/report/mL8nsw2ur6m8tjEb6rn6Cp) |
-| annihilator-aoe | 321,433 | [report](https://mimiron.raidbots.com/simbot/report/4VghkhnQtEWvEEF6oiLGrM) |
-| aldrachi-aoe | 296,153 | [report](https://mimiron.raidbots.com/simbot/report/9JgTSznBtD1oM5vygD2fEx) |
-| aldrachi-st | 290,329 | [report](https://mimiron.raidbots.com/simbot/report/qzGgoJxLABBtEaXsoGy1r2) |
+| annihilator-st | 329,328 | [report](https://mimiron.raidbots.com/simbot/report/1x4mX93SJiTGQVqfifFFb6) |
+| annihilator-aoe | 325,549 | [report](https://mimiron.raidbots.com/simbot/report/sqLGgoAnTk1geX54H2ADgV) |
+| aldrachi-aoe | 297,882 | [report](https://mimiron.raidbots.com/simbot/report/7rao4fzWGgfCN7uERBPuuk) |
+| aldrachi-st | 290,672 | [report](https://mimiron.raidbots.com/simbot/report/xoNbm1QfohDGXoTcYv2Z8L) |
 
 ## Talent strings
 
 | Build | Talent string | Report |
 |---|---|---|
-| aldrachi-st | `CUkAAAAAAAAAAAAAAAAAAAAAAAAYMzMzMMjMzMzY2MzMDYMzYGzYmZYGzMWmZGMmBAAAgZbGMMWWYCDzMjFAAAAMwAAgZGgBAAAwA` | [report](https://mimiron.raidbots.com/simbot/report/qzGgoJxLABBtEaXsoGy1r2) |
-| aldrachi-aoe | `CUkAAAAAAAAAAAAAAAAAAAAAAAAYMzMzMMjMzMzY2MzMzMYMzYGzYGDzwMWmZGMmBAAAgZZGMM2WYCDzMjFAAAAMwAAgZGgBAAAwA` | [report](https://mimiron.raidbots.com/simbot/report/9JgTSznBtD1oM5vygD2fEx) |
-| annihilator-st | `CUkAAAAAAAAAAAAAAAAAAAAAAAAYMzMPwMzMjMzMzM2MzMDYMzYGzYmZYGzM2mZmtxAAAAAAAABMzM2AAAAwAmZmZWabmZGAMAAAAMA` | [report](https://mimiron.raidbots.com/simbot/report/mL8nsw2ur6m8tjEb6rn6Cp) |
-| annihilator-aoe | `CUkAAAAAAAAAAAAAAAAAAAAAAAAYMzMPwMzMjMzMDzmZmZmBjZGzYGzYYGzM2mZmtxAAAAAAAABMzM2AAAAwAmZmZWabmZGAMAAAAMA` | [report](https://mimiron.raidbots.com/simbot/report/4VghkhnQtEWvEEF6oiLGrM) |
+| aldrachi-st | `CUkAAAAAAAAAAAAAAAAAAAAAAAAYMzMzMMjMzMzY2MzMDYMzYGzYmZYGzMWmZGMmBAAAgZbGMMWWYCDzMjFAAAAMwAAgZGgBAAAwA` | [report](https://mimiron.raidbots.com/simbot/report/xoNbm1QfohDGXoTcYv2Z8L) |
+| aldrachi-aoe | `CUkAAAAAAAAAAAAAAAAAAAAAAAAYMzMzMMjMzMzY2MzMzMYMzYGzYGDzwMWmZGMmBAAAgZZGMM2WYCDzMjFAAAAMwAAgZGgBAAAwA` | [report](https://mimiron.raidbots.com/simbot/report/7rao4fzWGgfCN7uERBPuuk) |
+| annihilator-st | `CUkAAAAAAAAAAAAAAAAAAAAAAAAYMzMPwMzMjMzMzM2MzMDYMzYGzYmZYGzM2mZmtxAAAAAAAABMzM2AAAAwAmZmZWabmZGAMAAAAMA` | [report](https://mimiron.raidbots.com/simbot/report/1x4mX93SJiTGQVqfifFFb6) |
+| annihilator-aoe | `CUkAAAAAAAAAAAAAAAAAAAAAAAAYMzMPwMzMjMzMDzmZmZmBjZGzYGzYYGzM2mZmtxAAAAAAAABMzM2AAAAwAmZmZWabmZGAMAAAAMA` | [report](https://mimiron.raidbots.com/simbot/report/sqLGgoAnTk1geX54H2ADgV) |
 
 ## Contributing
 

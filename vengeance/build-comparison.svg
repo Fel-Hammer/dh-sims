@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 830 560" width="830" height="560" font-family="system-ui, -apple-system, Segoe UI, Helvetica, Arial, sans-serif" role="img" aria-labelledby="title desc">
-<title id="title">single target against dungeon +20</title>
-<desc id="desc">Each of 4 builds as a dot at its single target and dungeon +20 damage. The tables in the README carry every number.</desc>
+<title id="title">single target against AoE 5 targets</title>
+<desc id="desc">Each of 4 builds as a dot at its single target and AoE 5 targets damage. The tables in the README carry every number.</desc>
 <rect width="830" height="560" rx="8" fill="#fcfcfb" stroke="#e3e2dc"/>
 <line x1="153.2" x2="153.2" y1="22" y2="496" stroke="#e3e2dc"/>
 <text x="153.2" y="516.0" font-size="12" fill="#52514e" text-anchor="middle">142k</text>
@@ -14,30 +14,34 @@
 <text x="660.2" y="516.0" font-size="12" fill="#52514e" text-anchor="middle">152k</text>
 <line x1="786.9" x2="786.9" y1="22" y2="496" stroke="#e3e2dc"/>
 <text x="786.9" y="516.0" font-size="12" fill="#52514e" text-anchor="middle">155k</text>
-<line x1="80" x2="802" y1="467.3" y2="467.3" stroke="#e3e2dc"/>
-<text x="70.0" y="471.3" font-size="12" fill="#52514e" text-anchor="end">290k</text>
-<line x1="80" x2="802" y1="347.0" y2="347.0" stroke="#e3e2dc"/>
-<text x="70.0" y="351.0" font-size="12" fill="#52514e" text-anchor="end">300k</text>
-<line x1="80" x2="802" y1="226.8" y2="226.8" stroke="#e3e2dc"/>
-<text x="70.0" y="230.8" font-size="12" fill="#52514e" text-anchor="end">310k</text>
-<line x1="80" x2="802" y1="106.6" y2="106.6" stroke="#e3e2dc"/>
-<text x="70.0" y="110.6" font-size="12" fill="#52514e" text-anchor="end">320k</text>
+<line x1="80" x2="802" y1="488.6" y2="488.6" stroke="#e3e2dc"/>
+<text x="70.0" y="492.6" font-size="12" fill="#52514e" text-anchor="end">325k</text>
+<line x1="80" x2="802" y1="408.7" y2="408.7" stroke="#e3e2dc"/>
+<text x="70.0" y="412.7" font-size="12" fill="#52514e" text-anchor="end">350k</text>
+<line x1="80" x2="802" y1="328.7" y2="328.7" stroke="#e3e2dc"/>
+<text x="70.0" y="332.7" font-size="12" fill="#52514e" text-anchor="end">375k</text>
+<line x1="80" x2="802" y1="248.7" y2="248.7" stroke="#e3e2dc"/>
+<text x="70.0" y="252.7" font-size="12" fill="#52514e" text-anchor="end">400k</text>
+<line x1="80" x2="802" y1="168.8" y2="168.8" stroke="#e3e2dc"/>
+<text x="70.0" y="172.8" font-size="12" fill="#52514e" text-anchor="end">425k</text>
+<line x1="80" x2="802" y1="88.8" y2="88.8" stroke="#e3e2dc"/>
+<text x="70.0" y="92.8" font-size="12" fill="#52514e" text-anchor="end">450k</text>
 <text x="441.0" y="542.0" font-size="14" fill="#52514e" text-anchor="middle">single target</text>
-<text x="22.0" y="259.0" font-size="14" fill="#52514e" text-anchor="middle" transform="rotate(-90 22 259.0)">dungeon +20</text>
-<g class="build"><title>aldrachi-st: single target 154,316, dungeon +20 290,329</title>
+<text x="22.0" y="259.0" font-size="14" fill="#52514e" text-anchor="middle" transform="rotate(-90 22 259.0)">AoE 5 targets</text>
+<g class="build"><title>aldrachi-st: single target 154,316, AoE 5 targets 332,916</title>
 <circle cx="752.2" cy="463.3" r="7" fill="#2a78d6" stroke="#fcfcfb" stroke-width="1.5"/>
 <text x="741.2" y="468.3" font-size="13" fill="#266dc3" text-anchor="end" font-weight="600">aldrachi-st</text>
 </g>
-<g class="build"><title>aldrachi-aoe: single target 149,957, dungeon +20 296,153</title>
-<circle cx="531.2" cy="393.3" r="7" fill="#2a78d6" stroke="#fcfcfb" stroke-width="1.5"/>
-<text x="542.2" y="398.3" font-size="13" fill="#266dc3" text-anchor="start" font-weight="600">aldrachi-aoe</text>
+<g class="build"><title>aldrachi-aoe: single target 149,957, AoE 5 targets 345,651</title>
+<circle cx="531.2" cy="422.6" r="7" fill="#2a78d6" stroke="#fcfcfb" stroke-width="1.5"/>
+<text x="542.2" y="427.6" font-size="13" fill="#266dc3" text-anchor="start" font-weight="600">aldrachi-aoe</text>
 </g>
-<g class="build"><title>annihilator-st: single target 143,887, dungeon +20 324,316</title>
-<circle cx="223.5" cy="54.7" r="7" fill="#eb6834" stroke="#fcfcfb" stroke-width="1.5"/>
-<text x="234.5" y="59.7" font-size="13" fill="#b34f28" text-anchor="start" font-weight="600">annihilator-st</text>
+<g class="build"><title>annihilator-st: single target 143,887, AoE 5 targets 452,069</title>
+<circle cx="223.5" cy="82.2" r="7" fill="#eb6834" stroke="#fcfcfb" stroke-width="1.5"/>
+<text x="234.5" y="87.2" font-size="13" fill="#b34f28" text-anchor="start" font-weight="600">annihilator-st</text>
 </g>
-<g class="build"><title>annihilator-aoe: single target 142,039, dungeon +20 321,433</title>
-<circle cx="129.8" cy="89.3" r="7" fill="#eb6834" stroke="#fcfcfb" stroke-width="1.5"/>
-<text x="140.8" y="94.3" font-size="13" fill="#b34f28" text-anchor="start" font-weight="600">annihilator-aoe</text>
+<g class="build"><title>annihilator-aoe: single target 142,039, AoE 5 targets 460,663</title>
+<circle cx="129.8" cy="54.7" r="7" fill="#eb6834" stroke="#fcfcfb" stroke-width="1.5"/>
+<text x="140.8" y="59.7" font-size="13" fill="#b34f28" text-anchor="start" font-weight="600">annihilator-aoe</text>
 </g>
 </svg>

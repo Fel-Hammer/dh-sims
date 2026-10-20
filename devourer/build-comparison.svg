@@ -2,66 +2,66 @@
 <title id="title">single target against AoE 5 targets</title>
 <desc id="desc">Each of 11 builds as a dot at its single target and AoE 5 targets damage. The tables in the README carry every number.</desc>
 <rect width="830" height="560" rx="8" fill="#fcfcfb" stroke="#e3e2dc"/>
-<line x1="185.2" x2="185.2" y1="22" y2="496" stroke="#e3e2dc"/>
-<text x="185.2" y="516.0" font-size="12" fill="#52514e" text-anchor="middle">240k</text>
-<line x1="392.7" x2="392.7" y1="22" y2="496" stroke="#e3e2dc"/>
-<text x="392.7" y="516.0" font-size="12" fill="#52514e" text-anchor="middle">260k</text>
-<line x1="600.2" x2="600.2" y1="22" y2="496" stroke="#e3e2dc"/>
-<text x="600.2" y="516.0" font-size="12" fill="#52514e" text-anchor="middle">280k</text>
-<line x1="80" x2="802" y1="440.4" y2="440.4" stroke="#e3e2dc"/>
-<text x="70.0" y="444.4" font-size="12" fill="#52514e" text-anchor="end">550k</text>
-<line x1="80" x2="802" y1="356.6" y2="356.6" stroke="#e3e2dc"/>
-<text x="70.0" y="360.6" font-size="12" fill="#52514e" text-anchor="end">600k</text>
-<line x1="80" x2="802" y1="272.9" y2="272.9" stroke="#e3e2dc"/>
-<text x="70.0" y="276.9" font-size="12" fill="#52514e" text-anchor="end">650k</text>
-<line x1="80" x2="802" y1="189.1" y2="189.1" stroke="#e3e2dc"/>
-<text x="70.0" y="193.1" font-size="12" fill="#52514e" text-anchor="end">700k</text>
-<line x1="80" x2="802" y1="105.4" y2="105.4" stroke="#e3e2dc"/>
-<text x="70.0" y="109.4" font-size="12" fill="#52514e" text-anchor="end">750k</text>
+<line x1="186.8" x2="186.8" y1="22" y2="496" stroke="#e3e2dc"/>
+<text x="186.8" y="516.0" font-size="12" fill="#52514e" text-anchor="middle">240k</text>
+<line x1="393.2" x2="393.2" y1="22" y2="496" stroke="#e3e2dc"/>
+<text x="393.2" y="516.0" font-size="12" fill="#52514e" text-anchor="middle">260k</text>
+<line x1="599.7" x2="599.7" y1="22" y2="496" stroke="#e3e2dc"/>
+<text x="599.7" y="516.0" font-size="12" fill="#52514e" text-anchor="middle">280k</text>
+<line x1="80" x2="802" y1="440.6" y2="440.6" stroke="#e3e2dc"/>
+<text x="70.0" y="444.6" font-size="12" fill="#52514e" text-anchor="end">550k</text>
+<line x1="80" x2="802" y1="356.7" y2="356.7" stroke="#e3e2dc"/>
+<text x="70.0" y="360.7" font-size="12" fill="#52514e" text-anchor="end">600k</text>
+<line x1="80" x2="802" y1="272.8" y2="272.8" stroke="#e3e2dc"/>
+<text x="70.0" y="276.8" font-size="12" fill="#52514e" text-anchor="end">650k</text>
+<line x1="80" x2="802" y1="188.9" y2="188.9" stroke="#e3e2dc"/>
+<text x="70.0" y="192.9" font-size="12" fill="#52514e" text-anchor="end">700k</text>
+<line x1="80" x2="802" y1="105.0" y2="105.0" stroke="#e3e2dc"/>
+<text x="70.0" y="109.0" font-size="12" fill="#52514e" text-anchor="end">750k</text>
 <text x="441.0" y="542.0" font-size="14" fill="#52514e" text-anchor="middle">single target</text>
 <text x="22.0" y="259.0" font-size="14" fill="#52514e" text-anchor="middle" transform="rotate(-90 22 259.0)">AoE 5 targets</text>
-<g class="build"><title>vs-st: single target 294,651, AoE 5 targets 590,541</title>
-<circle cx="752.2" cy="372.5" r="7" fill="#2a78d6" stroke="#fcfcfb" stroke-width="1.5"/>
-<text x="741.2" y="377.5" font-size="13" fill="#266dc3" text-anchor="end" font-weight="600">vs-st</text>
+<g class="build"><title>vs-st: single target 294,780, AoE 5 targets 590,699</title>
+<circle cx="752.2" cy="372.3" r="7" fill="#2a78d6" stroke="#fcfcfb" stroke-width="1.5"/>
+<text x="741.2" y="377.3" font-size="13" fill="#266dc3" text-anchor="end" font-weight="600">vs-st</text>
 </g>
-<g class="build"><title>vs-cleave: single target 276,087, AoE 5 targets 762,326</title>
-<circle cx="559.6" cy="84.7" r="7" fill="#2a78d6" stroke="#fcfcfb" stroke-width="1.5"/>
-<text x="570.6" y="89.7" font-size="13" fill="#266dc3" text-anchor="start" font-weight="600">vs-cleave</text>
+<g class="build"><title>vs-cleave: single target 276,026, AoE 5 targets 762,925</title>
+<circle cx="558.7" cy="83.4" r="7" fill="#2a78d6" stroke="#fcfcfb" stroke-width="1.5"/>
+<text x="569.7" y="88.4" font-size="13" fill="#266dc3" text-anchor="start" font-weight="600">vs-cleave</text>
 </g>
-<g class="build"><title>vs-aoe: single target 234,655, AoE 5 targets 780,272</title>
+<g class="build"><title>vs-aoe: single target 234,474, AoE 5 targets 780,016</title>
 <circle cx="129.8" cy="54.7" r="7" fill="#2a78d6" stroke="#fcfcfb" stroke-width="1.5"/>
 <text x="140.8" y="59.7" font-size="13" fill="#266dc3" text-anchor="start" font-weight="600">vs-aoe</text>
 </g>
-<g class="build"><title>vs-dung: single target 285,975, AoE 5 targets 760,928</title>
-<circle cx="662.2" cy="87.1" r="7" fill="#2a78d6" stroke="#fcfcfb" stroke-width="1.5"/>
-<text x="673.2" y="92.1" font-size="13" fill="#266dc3" text-anchor="start" font-weight="600">vs-dung</text>
+<g class="build"><title>vs-dung: single target 285,875, AoE 5 targets 760,976</title>
+<circle cx="660.3" cy="86.6" r="7" fill="#2a78d6" stroke="#fcfcfb" stroke-width="1.5"/>
+<text x="671.3" y="91.6" font-size="13" fill="#266dc3" text-anchor="start" font-weight="600">vs-dung</text>
 </g>
-<g class="build"><title>anni-st: single target 271,724, AoE 5 targets 561,583</title>
-<circle cx="514.4" cy="421.0" r="7" fill="#eb6834" stroke="#fcfcfb" stroke-width="1.5"/>
-<text x="525.4" y="426.0" font-size="13" fill="#b34f28" text-anchor="start" font-weight="600">anni-st</text>
+<g class="build"><title>anni-st: single target 271,899, AoE 5 targets 561,625</title>
+<circle cx="516.1" cy="421.1" r="7" fill="#eb6834" stroke="#fcfcfb" stroke-width="1.5"/>
+<text x="527.1" y="426.1" font-size="13" fill="#b34f28" text-anchor="start" font-weight="600">anni-st</text>
 </g>
-<g class="build"><title>anni-cleave: single target 260,541, AoE 5 targets 751,137</title>
-<circle cx="398.3" cy="103.5" r="7" fill="#eb6834" stroke="#fcfcfb" stroke-width="1.5"/>
-<text x="409.3" y="108.5" font-size="13" fill="#b34f28" text-anchor="start" font-weight="600">anni-cleave</text>
+<g class="build"><title>anni-cleave: single target 260,436, AoE 5 targets 751,123</title>
+<circle cx="397.7" cy="103.2" r="7" fill="#eb6834" stroke="#fcfcfb" stroke-width="1.5"/>
+<text x="408.7" y="108.2" font-size="13" fill="#b34f28" text-anchor="start" font-weight="600">anni-cleave</text>
 </g>
-<g class="build"><title>anni-dung: single target 257,563, AoE 5 targets 739,138</title>
-<circle cx="367.5" cy="123.6" r="7" fill="#eb6834" stroke="#fcfcfb" stroke-width="1.5"/>
-<text x="378.5" y="128.6" font-size="13" fill="#b34f28" text-anchor="start" font-weight="600">anni-dung</text>
+<g class="build"><title>anni-dung: single target 257,715, AoE 5 targets 739,141</title>
+<circle cx="369.7" cy="123.3" r="7" fill="#eb6834" stroke="#fcfcfb" stroke-width="1.5"/>
+<text x="380.7" y="128.3" font-size="13" fill="#b34f28" text-anchor="start" font-weight="600">anni-dung</text>
 </g>
-<g class="build"><title>anni-bite-st: single target 269,923, AoE 5 targets 536,293</title>
-<circle cx="495.7" cy="463.3" r="7" fill="#1baf7a" stroke="#fcfcfb" stroke-width="1.5"/>
-<text x="506.7" y="468.3" font-size="13" fill="#137c57" text-anchor="start" font-weight="600">anni-bite-st</text>
+<g class="build"><title>anni-bite-st: single target 269,959, AoE 5 targets 536,467</title>
+<circle cx="496.0" cy="463.3" r="7" fill="#1baf7a" stroke="#fcfcfb" stroke-width="1.5"/>
+<text x="507.0" y="468.3" font-size="13" fill="#137c57" text-anchor="start" font-weight="600">anni-bite-st</text>
 </g>
-<g class="build"><title>anni-bite-cleave: single target 261,938, AoE 5 targets 705,046</title>
-<circle cx="412.8" cy="180.7" r="7" fill="#1baf7a" stroke="#fcfcfb" stroke-width="1.5"/>
-<text x="423.8" y="185.7" font-size="13" fill="#137c57" text-anchor="start" font-weight="600">anni-bite-cleave</text>
+<g class="build"><title>anni-bite-cleave: single target 261,833, AoE 5 targets 705,298</title>
+<circle cx="412.2" cy="180.0" r="7" fill="#1baf7a" stroke="#fcfcfb" stroke-width="1.5"/>
+<text x="423.2" y="185.0" font-size="13" fill="#137c57" text-anchor="start" font-weight="600">anni-bite-cleave</text>
 </g>
-<g class="build"><title>anni-bite-aoe: single target 251,422, AoE 5 targets 707,819</title>
-<circle cx="303.7" cy="176.0" r="7" fill="#1baf7a" stroke="#fcfcfb" stroke-width="1.5"/>
-<text x="292.7" y="181.0" font-size="13" fill="#137c57" text-anchor="end" font-weight="600">anni-bite-aoe</text>
+<g class="build"><title>anni-bite-aoe: single target 251,583, AoE 5 targets 707,334</title>
+<circle cx="306.4" cy="176.6" r="7" fill="#1baf7a" stroke="#fcfcfb" stroke-width="1.5"/>
+<text x="295.4" y="181.6" font-size="13" fill="#137c57" text-anchor="end" font-weight="600">anni-bite-aoe</text>
 </g>
-<g class="build"><title>anni-bite-dung: single target 259,098, AoE 5 targets 693,144</title>
-<circle cx="383.4" cy="200.6" r="7" fill="#1baf7a" stroke="#fcfcfb" stroke-width="1.5"/>
-<text x="394.4" y="205.6" font-size="13" fill="#137c57" text-anchor="start" font-weight="600">anni-bite-dung</text>
+<g class="build"><title>anni-bite-dung: single target 259,154, AoE 5 targets 693,284</title>
+<circle cx="384.5" cy="200.2" r="7" fill="#1baf7a" stroke="#fcfcfb" stroke-width="1.5"/>
+<text x="395.5" y="205.2" font-size="13" fill="#137c57" text-anchor="start" font-weight="600">anni-bite-dung</text>
 </g>
 </svg>

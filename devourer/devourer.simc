@@ -132,7 +132,7 @@ actions.voidscarred_meta+=/reapers_toll,if=active_enemies>3&fury<void_metamorpho
 actions.voidscarred_meta+=/pierce_the_veil,if=active_enemies>3&time-buff.metamorphosis.last_trigger<15&buff.eradicate.up
 actions.voidscarred_meta+=/soul_immolation,if=active_enemies>3&!active_dot.soul_immolation&buff.collapsing_star_stacking.stack<15
 actions.voidscarred_meta+=/soul_immolation,if=active_enemies=1&!active_dot.soul_immolation&fury>=void_metamorphosis_base_drain_ps*2&buff.impending_apocalypse.stack>=2
-actions.voidscarred_meta+=/reapers_toll,if=soul_fragments<=8
+actions.voidscarred_meta+=/reapers_toll,if=soul_fragments<=8|active_enemies=1&buff.impending_apocalypse.stack>=3
 actions.voidscarred_meta+=/pierce_the_veil,if=active_enemies<4
 actions.voidscarred_meta+=/predators_wake,if=!buff.hungering_slash.up
 actions.voidscarred_meta+=/eradicate,if=active_enemies>3&buff.collapsing_star_stacking.stack+action.reap.souls_consumed>=30
